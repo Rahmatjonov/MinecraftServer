@@ -1,2 +1,2 @@
 # minecraft-template
-Default minecraft server template.
+Minecraft Sodda Template
